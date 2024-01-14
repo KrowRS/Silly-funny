@@ -12,6 +12,7 @@ Name: Localhost
 
 Target URL: http://localhost:3000/fuml?url={URL}&title={TITLE}
 
+REMEMBER TO PRESS THE SAVE BUTTON 
 This is the extension we will use to download youtube videos by sending the data from the browser to the cum.exe by pressing "send to localhost" whenever interacting with the extension on a Youtube page.
 
 ## Setting up the Application
