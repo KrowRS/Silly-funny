@@ -7,7 +7,9 @@ If you are using Firefox or some version of Firefox you're super sexy and this w
 Go get this extension for your browser https://addons.mozilla.org/en-US/firefox/addon/send-tab-url/
 
 Once you have the extension please go to the manage section and under options you will have the ability to change the name of the location you would like to send it to and the target URL. For our purposes you will use these settings
+
 Name: Localhost
+
 Target URL: http://localhost:3000/fuml?url={URL}&title={TITLE}
 
 This is the extension we will use to download youtube videos by sending the data from the browser to the cum.exe by pressing "send to localhost" whenever interacting with the extension on a Youtube page.
