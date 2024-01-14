@@ -34,9 +34,9 @@ Directories.json contains the configuration data and MUST be in the same directo
 ```
 
 
-In order to have cum.exe work we need to tell it where your yt-dlp.exe file is located, if you placed it within your downloads folder for example you might need to replace the contents to the right of "ytdlp": with something like "C:\\Users\\Name\\Downloads\\yt-dlp.exe". 
+In order to have cum.exe work we need to tell it where your yt-dlp.exe file is located, if you placed it within your downloads folder for example you might need to replace the contents to the right of "ytdlp": with something like "C:\\\Users\\\Name\\\Downloads\\\yt-dlp.exe". 
 
-"Download" on the other hand indicates the directory you would like to have your Youtube videos downloaded to, if you wanted them to be put into a folder in your videos folder you might do something like "C:\\Users\\Name\\Videos\\cumvideos"
+"Download" on the other hand indicates the directory you would like to have your Youtube videos downloaded to, if you wanted them to be put into a folder in your videos folder you might do something like "C:\\\Users\\\Name\\\Videos\\\cumvideos"
 
 So in your case you might need to have the directory.json look like this
 
