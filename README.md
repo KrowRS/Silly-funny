@@ -8,7 +8,7 @@ Go get this extension for your browser https://addons.mozilla.org/en-US/firefox/
 
 Once you have the extension please go to the manage section and under options you will have the ability to change the name of the location you would like to send it to and the target URL. For our purposes you will use these settings
 
-Name: Localhost
+Name: localhost
 
 Target URL: http://localhost:3000/fuml?url={URL}&title={TITLE}
 
