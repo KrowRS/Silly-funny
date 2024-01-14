@@ -60,3 +60,5 @@ Currently the videos are set to install in a suboptimal resolution and fps in or
 
 ## EXTRA THING 
 If you want cum.exe to run on startup you can make a shortcut to cum.exe and place it within shell:startup in a file browser which can also be accessed through it's appdata location (AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
+![explorer_5xY0R4Pl5W](https://github.com/KrowRS/C.U.M.-CLAIMER-OF-UTUBE-MEDIA-/assets/80224801/e09068fd-cf32-4a37-9ed1-adeb5f4bdba1)
+
